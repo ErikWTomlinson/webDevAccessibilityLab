@@ -20,6 +20,9 @@ header h1 a:hover {
   color: #fff;
   padding: 10px;
 }
+#logo a:visited {
+  color: hotpink;
+}
 nav li a:hover {
   color: #7e8aa2;
 }
