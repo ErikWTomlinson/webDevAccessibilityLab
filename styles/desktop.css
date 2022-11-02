@@ -22,7 +22,7 @@ header h1 a:hover {
   padding: 10px;
 }
 #logo a:visited {
-  color: white;
+  color: #fff;
 }
 nav li a:hover {
   color: #7e8aa2;
