@@ -15,6 +15,9 @@ footer {
   color: #fff;
   text-align: center;
 }
+#logo a:visited {
+  color: hotpink;
+}
 header {
   background-color: #263248;
 }
